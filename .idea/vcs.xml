@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lion-dbapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lion-dbapi-resource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lion-dbapi-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lion-hbase-sql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lion-orange" vcs="Git" />
+  </component>
+</project>
